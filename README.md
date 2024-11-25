@@ -1,6 +1,6 @@
 # Drone Delivery System - Service-Based Architecture
 - Further project done from this can be seen here: https://github.com/Karppimc/Distributed-Drone-Delivery
-This project consists of two independent services that manage drones and handle delivery requests. The services are:
+- This project consists of two independent services that manage drones and handle delivery requests. The services are:
 1. **DroneInventoryService** - Manages the fleet of drones.
 2. **DeliveryService** - Manages delivery requests and assigns drones from the inventory.
 
